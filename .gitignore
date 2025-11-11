@@ -24,4 +24,3 @@ tmp/
 temp/
 
 backend/vendor/*
-backend/.env
